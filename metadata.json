@@ -1,0 +1,6 @@
+{
+  "name": "API Flow Inspector",
+  "description": "Local HTTP/HTTPS network traffic interceptor, SSL proxy debugger, and API mocking engine with rules and breakpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
